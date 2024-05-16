@@ -1,0 +1,1 @@
+In this project, the steps outlined in the article on item-based filtering by SVD were followed. The IMDb dataset was utilized, converted into a matrix, and a film prediction algorithm was implemented. Finally, the error resulting from the method employed was calculated.
